@@ -1,5 +1,5 @@
 # Algorithme-de-detection-de-faux-billet-avec-python-
-Analyse univariée/bivariée, régression linéaire/logistique et classification non supervisée (K-means)
+Analyse univariée/bivariée, régression linéaire/logistique et classification (K-means)
 
 Projet effectué dans le cadre de ma formation Openclassroom 
 
